@@ -8,8 +8,8 @@ El programa utiliza listas, diccionarios, estructuras condicionales y bucles.
 
 ##  Objetivo
 Aplicar conceptos básicos de programación en Python como:
-- Condicionales (`if`, `elif`, `else`)
-- Bucles (`while` y `for`)
+- Condicionales (if, elif, else)
+- Bucles (while y for)
 - Listas y diccionarios
 - Validación de datos ingresados por el usuario
   
@@ -35,16 +35,16 @@ El programa cuenta con un menú que permite:
 
 ##  Estructura del programa
 
-- `inventario`: lista donde se guardan los productos  
+- inventario: lista donde se guardan los productos  
 - Cada producto es un diccionario con:
-  - `nombre`
-  - `precio`
-  - `cantidad`
+  - nombre
+  - precio
+  - cantidad
 
 Funciones utilizadas:
-- `agregar_producto()`
-- `mostrar_inventario()`
-- `calcular_estadisticas()`
+- agregar_producto()
+- mostrar_inventario()
+- calcular_estadisticas()
 ##  Cómo ejecutar el programa
 1. Abrir el archivo en un entorno de Python (VS Code, PyCharm o terminal)
 2. Ejecutar el archivo
